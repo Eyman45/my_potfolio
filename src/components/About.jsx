@@ -26,7 +26,7 @@ const About = () => {
             animate={{ x: 0 }}
             transition={{ duration: 1, ease: 'easeInOut' }}
           >
-            <p className="text-lg">I am a web developer and video editor with a passion for creating visually stunning projects...</p>
+            <p className="text-lg text-red-500">I am a web developer and video editor with a passion for creating visually stunning projects...</p>
           </motion.div>
         </motion.div>
       </div>
